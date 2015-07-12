@@ -1,0 +1,10 @@
+# R Files #
+#################
+*.RData
+*.Rhistory
+
+
+# Project Files #
+#################
+household_power_consumption.txt
+
